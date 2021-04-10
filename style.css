@@ -9,5 +9,22 @@ h1
 }
 
 body {
-  background-color: 7180B9;
+	background-color: #fff;
+  margin: 0;
+}
+header {
+	height: 120px;
+	background-color: #fff;
+
+  footer {
+	background-color: #bdcbd9;
+}
+.wrapper {
+	width: 980px;
+	margin: auto;
+}
+.wrapper:after {
+	content: "";
+	display: table;
+	clear: both;
 }
