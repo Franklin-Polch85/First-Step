@@ -16,6 +16,9 @@ body {
 header {
 	height: 120px;
 }
+footer {
+	background-color: #blue;
+	background-image:url(images/backgrounds/subtle_brown_mini_waves.png);}
 footer p {
 	color: #fff;	
 	text-align: center;
