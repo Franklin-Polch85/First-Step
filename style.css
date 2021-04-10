@@ -12,6 +12,14 @@ body {
 	background-color: #DFF3E4 ;
   margin: 0;
 }
+
+div {
+  width: 160px;
+  height: 80px;
+  padding: 20px;
+  border: 8px solid green;
+  background: black;
+}
 header {
 	height: 120px;
 	background-color: #171738;
