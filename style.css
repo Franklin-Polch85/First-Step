@@ -15,24 +15,11 @@ body {
 
 header {
 	height: 120px;
-	background-color: #171738;
+}
+footer p {
+	color: #fff;	
+	text-align: center;
+  padding: 30px;
+  margin: 0;
+}
 
-  footer {
-	background-color: #7180B9;
-}
-.wrapper {
-	width: 980px;
-	margin: auto;
-}
-.wrapper:after {
-	content: "";
-	display: table;
-	clear: both;
-	}
-	
-footer {
-	text-align: center;	
-}
-footer #copyright {
-	color: #fff;
-	margin-top: 26px;
