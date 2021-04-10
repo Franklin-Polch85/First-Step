@@ -1,9 +1,13 @@
 h1
 {
-  color: blue;
+  color: black;
   font-family: 'Courier New', Courier, monospace;
   font-size: 48px;
   letter-spacing: 10px;
   text-align: center;
   text-transform: uppercase;
+}
+
+body {
+  background-color: 7180B9;
 }
