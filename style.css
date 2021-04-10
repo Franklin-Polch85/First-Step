@@ -9,8 +9,9 @@ h1
 }
 
 body {
-	background-color: #DFF3E4 ;
   margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #blue;
 }
 
 header {
