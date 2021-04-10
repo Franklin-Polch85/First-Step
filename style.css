@@ -8,15 +8,28 @@ h1
   text-transform: uppercase;
 }
 
-body {
+body 
+{
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   background-color: #blue;
 }
 
 header {
-	height: 120px;
+	height: 140px;
+	background-color: #403933;
 }
+
+.logo {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 72px;
+  color: #c5c0b8;
+  text-align: center;
+  letter-spacing: -3;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
 footer {
 	background-color: #blue;
 	background-image:url(First-Step/cool-background (1).png);}
